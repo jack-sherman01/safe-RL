@@ -131,3 +131,13 @@ dmypy.json
 # crrc7
 .pdf
 video/
+
+*.pyc
+*.png
+*.pkl
+*.p
+*.jpg
+*.zip
+*.gif
+
+runs/
